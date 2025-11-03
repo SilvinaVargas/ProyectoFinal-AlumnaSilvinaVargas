@@ -1,0 +1,31 @@
+Nombre del proyecto: Casos API
+Software: Postman
+Ambiente: https://fakestoreapi.com/
+Tester: Silvina Vargas
+
+
+Se relizaron 4 pruebas en Postman con métodos GET, POST y PUT. Este informe esta basado sobre el archivo https://docs.google.com/spreadsheets/d/1gUIlIIMBB589MChjDVZrJca26wpumHqK8SXLydcpAQ4/edit?gid=0#gid=0 que muestra evidencia tanto de la estructura en JSON devueltas y capturas de pantalla realizadas durante el testing.
+
+ID:1
+Método:GET
+Enpoint: /users
+
+La API respondió con el código esperado 200 y mostró la lista de usuarios pedida, en estructura JSON correcta.
+
+ID:2
+Método:POST
+Endpoint: /user
+
+La API respondió con el código esperado para crear, devolviendo el código 201. Se le agrearon atributos en estructura JSON, muestra en pantalla la confirmación de un nuevo usuario.
+
+ID:3
+Método:PUT
+Endpoint: /products/6
+
+La API respondió según lo esperado, devuelve el código 200, en el body se señaló los campos y atributos a modificar y se pudo observar los cambios realizados.
+
+ID:4
+Método:GET
+Endpoint: /product/6
+
+Para la prueba de endpoint inexistente o mal escrito, respondió según lo esperado, devolviendo un código 404.
