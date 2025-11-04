@@ -1,0 +1,69 @@
+﻿Informe de Bugs
+
+
+Proyecto: Testing App Tiktok Lite
+
+
+Equipo de Testing: Team QA
+
+
+Fecha: 01 de noviembre de 2025.
+
+
+1. Marco de Trabajo
+
+
+Metodología: Scrum
+
+
+Duración: 3 horas de pruebas manuales.
+
+
+Herramientas: Dispositivo móvil Xiaomi Redmi Note Pro12, Android, Hojas de cálculo (Google), videos (grabadora de pantalla del dispositivo)
+
+
+Rol: Tester Manual
+
+
+2. Discovery
+
+
+           La app Tiktok Lite debe permitir capturar videos cortos y fotos, editar, explorar y compartir videos. Durante las pruebas, se verificó la funcionalidad general y validaciones.
+
+
+
+
+3. Tipos de pruebas realizadas
+
+
+            Pruebas funcionales (campos obligatorios)
+ 
+            Pruebas de validación (email, interacciones)
+
+
+            Pruebas visuales (botones, alineación de campos)
+
+
+            Pruebas de usabilidad (claridad de los mensajes de error)
+
+
+
+
+4. Listado de bugs encontrados
+
+
+https://docs.google.com/spreadsheets/d/1nP7f-_scUQHUhJe1mWTxVV11jLlJdg5IglsRQV9f1m8/edit?gid=0#gid=0
+
+
+5. Resumen de severidades
+
+
+           Baja                           1
+           Alta                            2
+           Crítica                        0
+Total de bugs encontrados 3
+
+
+6. Recomendaciones
+Implementar validaciones al utilizar correos electrónicos para el registro. 
+Corregir problemas de interacción.
